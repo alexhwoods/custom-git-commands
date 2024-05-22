@@ -1,7 +1,6 @@
+## Installation
 ```
-chmod +x git-recent
-export PATH=$PATH:~/custom-git-commands
-source ~/.zshrc
+zsh install.sh
 ```
 
 ## Run The Commands
